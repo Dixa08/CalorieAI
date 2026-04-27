@@ -1,0 +1,10 @@
+﻿dataset/
+models/*.keras
+models/*.h5
+database/*.db
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
