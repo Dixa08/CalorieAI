@@ -1,0 +1,21 @@
+food_name,serving_size,calories,carbs,protein,fat,category
+biryani,1 plate (300g),450,60,15,12,rice
+chapati,1 piece (40g),120,25,3,2,bread
+dal_tadka,1 bowl (200g),180,25,10,5,lentil
+dal_makhani,1 bowl (200g),220,28,11,8,lentil
+paneer_butter_masala,1 bowl (200g),280,15,14,18,curry
+aloo_tikki,2 pieces (100g),195,28,4,8,snack
+poha,1 plate (200g),250,45,5,6,breakfast
+naan,1 piece (90g),270,45,8,6,bread
+palak_paneer,1 bowl (200g),240,12,14,16,curry
+kadai_paneer,1 bowl (200g),260,14,15,17,curry
+idli,2 pieces (100g),130,26,4,1,breakfast
+dosa,1 piece (100g),168,30,4,4,breakfast
+roti,1 piece (35g),100,21,3,1,bread
+rice,1 bowl (200g),260,57,5,1,rice
+samosa,2 pieces (100g),262,32,5,13,snack
+rajma,1 bowl (200g),220,35,13,3,lentil
+chole,1 bowl (200g),210,32,11,5,lentil
+upma,1 plate (200g),230,38,6,7,breakfast
+aloo_paratha,1 piece (100g),260,38,6,10,bread
+maggi,1 plate (200g),350,50,8,12,snack

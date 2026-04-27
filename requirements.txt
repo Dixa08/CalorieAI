@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+keras
+opencv-python
+Pillow
+pandas
+numpy
+plotly
+face_recognition
+scikit-learn
