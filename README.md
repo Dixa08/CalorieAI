@@ -6,4 +6,4 @@ AI-Based Dietary Calorie Analysis for Indian Students
 
  # pipeline
  --
- food login->count calories ->count nutrients ->
+ food login->count calories ->count nutrients -> dashboard visisblity for daily calories and adding lot of
