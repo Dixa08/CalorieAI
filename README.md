@@ -22,3 +22,6 @@ language: python
 libraries: panada,matplotlib,numpy,scikitlearn,nltk etc
 --
 models:yolo,llma,xeboost,refression model
+--
+dataset:indian food dataset from kaggle
+--
