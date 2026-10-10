@@ -20,3 +20,5 @@ we have dataset -> prepraocess->dl model->train->test->new data->deploy
 
 language: python
 libraries: panada,matplotlib,numpy,scikitlearn,nltk etc
+--
+models:yolo,llma,xeboost,refression model
