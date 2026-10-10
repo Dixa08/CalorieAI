@@ -11,3 +11,12 @@ we have dataset -> prepraocess->dl model->train->test->new data->deploy
 
 
  # the data
+
+
+
+
+
+# tool and technology 
+
+language: python
+libraries: panada,matplotlib,numpy,scikitlearn,nltk etc
