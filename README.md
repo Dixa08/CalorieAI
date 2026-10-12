@@ -14,7 +14,7 @@ we have dataset -> prepraocess->dl model->train->test->new data->deploy
 
 
 
-
+the data may be taken form
 
 # tool and technology 
 
