@@ -25,3 +25,6 @@ models:yolo,llma,xeboost,refression model
 --
 dataset:indian food dataset from kaggle
 --
+
+
+the data taken from the 
